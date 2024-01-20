@@ -1,0 +1,7 @@
+Nordwind (PostgreSQL):
+
+Host: 95.163.241.236
+Port: 5432
+Data Base: nordwind
+User: student
+Password: qweasd963
